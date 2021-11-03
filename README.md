@@ -23,7 +23,7 @@ Contribuições devem seguir um padrão imposto por cada matéria, com descriç�
 
 A realidade é que muitas dessas implementações já seriam inclusive encontradas na internet, mas talvez não tão vastamente documentada e explicada. O ponto em questão seria que ao menos se fossem pegar desses nossos repositórios haveria a chance de aprender algo, muito embora encorajamos os professores que façam avaliações de trabalhos em que de fato comprevem que o aluno sabe o que cada centímetro do código está fazendo afim de evitar problemas e melhorar a absorção de conteúdos, também nos dando liberdade para mantermos nossa comunidade de contribuições.
 
-## Contribuidores
+## Contribuidores 💝
 
 <a href="https://github.com/unicontrib/unicontrib/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=unicontrib/unicontrib" />

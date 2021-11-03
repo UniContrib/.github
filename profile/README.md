@@ -1,6 +1,14 @@
 # <h1 align="center">UniContrib</h1>
 
-> Primariamente desenvolvido para o curso de Ciência da Computação campus Cascavel.
+<p align="center">
+Primariamente desenvolvido para o curso de Ciência da Computação campus Cascavel.
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/UniContrib/.github/blob/main/profile/uni_contrib_logo_v1.png" width=300>  
+</p>
 
 Esse projeto é mantido pelos acadêmicos do grupo PET do curso de Ciência da Computação da Unioeste campus Cascavel. Todos outros acadêmicos também são reconhecidos pelos seus esforços e contribuições, uma lista com todos os contribuidores é encontrada em **CONTRIBUTORS.md** e [contribuidores](#contribuidores).
 

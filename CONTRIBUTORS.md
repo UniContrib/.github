@@ -1,2 +1,2 @@
-@Daniel-Boll
-@Tomcat-42
+@Daniel-Boll (Daniel Boll danielboll.academico@gmail.com)
+@Tomcat-42 (Pablo Hugen pabloashugen@protonmail.com)
